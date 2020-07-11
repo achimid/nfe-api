@@ -1,0 +1,23 @@
+{
+  "xNome": "INNOVAGY SOLUCOES EM TECNOLOGIA DA INFORMACAO",
+  "CNPJ": "36606999000164",
+  "IE": "680432812296",
+  "CRT": "3",
+  "estado": "35",
+  "endereco": {
+    "xLgr": "AV SANTO ANTONIO & cia",
+    "nro": "0",
+    "xCpl": "QD 17 LT 01-02-03",
+    "xBairro": "PQ STO ANTONIO",
+    "cMun": "5219753",
+    "xMun": "SANTO ANTONIO DO DESCOBERTO",
+    "UF": "SP",
+    "CEP": "72900000",
+    "cPais": "1058",
+    "xPais": "Brasil",
+    "fone": "6233215175"
+  },
+  "certificado": {
+    "senha": "123456"
+  }
+}
