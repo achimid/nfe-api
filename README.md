@@ -1,4 +1,4 @@
-# NFe API - Api para emissão de Nota Fical Eletrônica
+# NFe API - Api para emissão de Nota Fiscal Eletrônica
 
 #### Configuração inicial
 - Adicione as informações da empresa emitente no arquivo /src/main/resources/emitente.json
@@ -22,7 +22,6 @@
  * Criar paginas front-end para utilização da API
  * Permitir criação de multiplos Emitentes, permitindo upload do certificado
  * Implementar testes dos endpoints REST
- * 
     
 
 
